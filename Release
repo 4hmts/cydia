@@ -1,0 +1,8 @@
+Origin: asalihkocabas of Repo
+Label: asalihkocabas of Repo
+Suite: stable
+Version: 0.0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: contact for twitter @asalihkocabas.

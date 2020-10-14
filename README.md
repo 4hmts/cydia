@@ -2,8 +2,6 @@
 **Contact us Twitter
 @asalihkocabas**
 
- LOG
-
 > **test 0.0.1**
 > install website template and cydia repo
 

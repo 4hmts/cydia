@@ -1,0 +1,23 @@
+<package>
+	<id>com.asalihkocabas.dotto</id>
+	<name>dotto+</name>
+	<version>1.0.4</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.5.1</maxiOS>
+			<otherVersions>supported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Bildirimlerinizi Özelleştirin.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

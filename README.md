@@ -1,12 +1,12 @@
-# My Cydia Project
-contact us
-#
-twitter: @asalihkocabas
-# Log
-0.0.1 - install cydia repo
-#
-- install website
+# Welcome to My Cydia Project!
+**Contact us Twitter
+@asalihkocabas**
 
-version: test 0.0.1
-#
-update date: 14.10.2020
+ LOG
+
+> **test 0.0.1**
+> install website
+> install cydia repo
+
+ - last-update: 14.10.2020 
+ - current-version: test 0.0.1
